@@ -1,0 +1,101 @@
+0,tweet,label,emotion
+31265,"['pemilu', 'momen', 'bersejarah', 'keseluruhan', 'imbauan', 'adalah', 'panduan', 'memastikan', 'kesuksesan', 'pemilu', 'damai', 'tertib', 'bersama', 'akan', 'membantu', 'indonesia', 'maju', 'masa', 'depan', 'lebih', 'baik']",Joy,Neutral
+316,"['betul', 'juga', 'mikinya', 'kalau', 'waktu', 'nikah', 'mau', 'konsul', 'kehamilan', 'maunya', 'pakai', 'dokter', 'biasa', 'dipakai', 'keluarga', 'ku', 'waktu', 'hamil', 'lebih', 'aman']",Neutral,Neutral
+4289,"['ngeri', 'sangat', 'jelas', 'positive', 'nongkrong', 'bukannya', 'isoman']",Fear,Fear
+26820,"['yang', 'salah', 'cara', 'berpikir', 'yang', 'berperang', 'melawan', 'penjajahan', 'israel', 'bukan', 'hamas', 'seluruh', 'rakyat', 'palestina']",Sad,Anger
+8377,"['acara', 'nya', 'seru', 'bange', 'waktu', 'ka', 'abdul', 'nyanyi', 'suara', 'nya', 'bikin', 'hati', 'adem', 'the', 'best', 'deh']",Joy,Joy
+4622,"['bused', 'dua', 'kali', 'kirim', 'kata', 'mah', 'mending', 'sender', 'muncul', 'deh', 'dm', 'coba', 'biar', 'tahu', 'usah', 'malu', 'dm', 'terbuka', 'luas', 'se', 'luas', 'semesta', 'jangan', 'buat', 'penasaran']",Fear,Neutral
+32917,"['bersama', 'jaga', 'kondusifitas', 'pemilu', 'pemilihan', 'umum', 'puncak', 'demokrasi', 'saat', 'bersatu', 'memilih', 'masa', 'depan', 'indonesia', 'kita', 'jaga', 'kondusifitas', 'hormati', 'perbedaan', 'hindari', 'konflik']",Joy,Neutral
+14003,"['gerindra', 'serang', 'balik', 'nasdem', 'kubu', 'jokowi', 'ketakutan']",Joy,Fear
+3895,"['sekali', 'kalau', 'slr', 'hanya', 'balas', 'seadanya', 'cp', 'marah', 'ato', 'sebal', 'wajar', 'sih', 'saya', 'merasa', 'bersalah']",Sad,Sad
+15965,"['berhutang', 'loh', 'berani', 'nyalon']",Anger,Anger
+34771,"['debat', 'calon', 'ketua', 'osim', 'awali', 'pemilu', 'man', 'tanah', 'datar', 'plus', 'keterampilan', 'hari', 'sumpah', 'pemuda']",Neutral,Neutral
+631,"['baru', 'mengirim', 'foto', 'klaten', 'jawa', 'tengah', 'indonesia']",Neutral,Neutral
+18927,"['dki', 'jakarta', 'dikelola', 'gubernus', 'anies', 'surplus', 'rp', 't', 'nkri', 'dikelola', 'presiden', 'jokowi', 'minus', 'hutang', 'rp', 't', 'jadi', 'kalau', 'masa', 'depan', 'indonesia', 'mau', 'bagus', 'surplus', 'tidak', 'punya', 'hutang', 'pilih', 'siapa']",Neutral,Neutral
+40870,"['rupiah', 'nya', 'naik', 'beb', 'dolar', 'jadi', 'ribu', 'yang', 'biasanya', 'ribu', 'kamu', 'kalau', 'punya', 'uang', 'dollar', 'mending', 'tuker', 'waktu', 'rupiah', 'naik']",Joy,Neutral
+10280,"['cc', 'in', 'cebong', 'dungu', 'maksd', 'hati', 'cari', 'kesalahan', 'lwat', 'pohon', 'plastik', 'malah', 'kebongkar', 'semua', 'skandalnya', 'sekali', 'kasihan', 'ahok']",Anger,Anger
+18925,"['the', 'best', 'program', 'benar', 'pro', 'rakyat', 'anies', 'muhaimin', 'kehidupan', 'berumah', 'tangga', 'konsepnya', 'tempat', 'tinggal', 'rumah', 'bahagia', 'rakyat', 'indonesia', 'presiden', 'seyum', 'bahagia']",Joy,Joy
+5141,"['congratulations', 'for', 'ur', 'debut', 'child', 'makna', 'nya', 'sekali', 'huhu', 'kek', 'relate', 'kehidupanku', 'kehidupan', 'oranglain', 'mungkin', 'semangat', 'terus', 'buat', 'karya', 'karyanya', 'lain', 'bahagia', 'selalu', 'buat', 'kalian', 'me', 'lafyu', 'xx', 't']",Joy,Joy
+20615,"['kombinasi', 'anies', 'muhaimin', 'harapan', 'masa', 'depan', 'indonesia']",Joy,Joy
+10783,"['ku', 'ditinggal', 'senja', 'malam', 'menghampiri', 'sendiri', 'ku', 'menanti', 'segera', 'angin', 'sampaikan', 'rinduku', 'terlupakah', 'kamu', 'janjimu', 'bersama', 'rindu', 'bergelora', 'perpisahan', 'menikam', 'jiwa', 'kamu', 'pandai', 'mengusik', 'kamu', 'pan']",Sad,Sad
+38691,"['terlepas', 'skor', 'akhir', 'timnas', 'mainnya', 'jauh', 'berkembang', 'pernah', 'liat', 'sebelumnya', 'berani', 'main', 'terbuka', 'nguasain', 'bola', 'lawan', 'tim', 'sekelas', 'australia']",Joy,Neutral
+5219,"['asli', 'enak', 'sekali', 'kamunya', 'desah', 'kencengg', 'uuhh']",Joy,Joy
+7666,"['benar', 'nangis', 'tadi', 'waktu', 'pulang', 'flo', 'untung', 'sefakultas', 'jadi', 'tempat', 'keluarnya', 'beda', 'terus', 'pakai', 'kacamata', 'biar', 'gakenal', 'benar', 'takut']",Fear,Fear
+43976,"['report', 'israel', 'used', 'air', 'to', 'surface', 'missile', 'called', 'the', 'rampage', 'in', 'iran', 'attack', 'via']",Fear,Neutral
+19520,"['punya', 'dong', 'anies', 'cak', 'imin']",Neutral,Neutral
+12780,"['cak', 'imin', 'kalau', 'pemerintah', 'sekarang', 'merah', 'santri', 'akan', 'sempurnakan', 'putihnya', 'mobile']",Love,Neutral
+23041,"['ketahanan', 'kesehatan', 'memang', 'menjadi', 'isu', 'prioritas', 'penting', 'asean', 'bac', 'menjaga', 'kesejahteraan', 'stabilitas', 'kawasan', 'asean']",Neutral,Neutral
+34351,"['kpu', 'kabupaten', 'magetan', 'mengucapkan', 'selamat', 'atas', 'penghargaan', 'diberikan', 'jalur', 'ngariboyo', 'bendo', 'sukomoro', 'maospati', 'kategori', 'jalur', 'terbaik', 'giat', 'kirab', 'pemilu', 'kabupaten', 'magetan']",Joy,Joy
+24370,"['pertanyaan', 'yes', 'or', 'itu', 'sebanding', 'pertanyaan', 'benar', 'salah', 'biasanya', 'soal', 'tes', 'ujian', 'kurikulum', 'sd', 'selama', 'mereka', 'mampu', 'berfikir', 'belum', 'punya', 'kemampuan', 'menjelaskan', 'capres', 'rakyat', 'berhak', 'untuk', 'menuntut', 'lebih', 'kredibilitas', 'calon']",Neutral,Neutral
+36251,"['bukan', 'porsinya', 'pimpinan', 'agama', 'bermanuver', 'politik', 'cukup', 'kuatkan', 'internal', 'organisasi', 'individu', 'anggotanya', 'semakin', 'baik', 'tak', 'elok', 'mencampur', 'aduk', 'politik', 'taktis', 'klaim', 'pimpinan', 'ormas', 'politik', 'siasat', 'tak', 'perlu', 'siasat', 'ditunjukkan']",Neutral,Neutral
+44739,"['interesting', 'you', 'say', 'that', 'baca', 'israel', 'needed', 'nuclear', 'country', 'for', 'protection', 'and', 'costed', 'billion', 'for', 'this', 'attack', 'iran', 'achieved', 'a', 'lot', 'with', 'this', 'attack', 'they', 'got', 'the', 'data', 'they', 'needed', 'from', 'this', 'attack', 'so', 'realistically', 'israel', 'can', 't', 'not', 'afford', 'billion', 'a', 'day', 'for', 'protection']",Anger,Fear
+35072,"['punya', 'pendidikan', 'bagus', 'kerjaan', 'halal', 'kepala', 'keluarga', 'bersyukur', 'sekali']",Joy,Joy
+11495,"['sayang', 'orang', 'tua', 'taati', 'allah', 'orang', 'tua', 'akan', 'dijoyi', 'allah', 'disayang', 'allah', 'sebenar', 'benar', 'balasan', 'pada', 'orang', 'tua']",Love,Love
+371,"['biasa', 'a', 'mu', 'nya', 'kalah']",Neutral,Neutral
+14817,"['hidupnya', 'puluhan', 'tahun', 'pakai', 'fitnah', 'tua', 'bangka', 'bedebah', 'tua', 'bangka', 'nyinyir', 'lupa', 'dosa', 'akherat', 'da']",Anger,Anger
+2087,"['kamu', 'jangan', 'bikin', 'marah']",Anger,Anger
+11276,"['dijelaskan', 'maksud', 'hal', 'dibuktikan', 'penggunaan', 'resi', 'transaksi', 'yang', 'digunakan', 'transaksi', 'transaksi', 'dengan', 'supplier', 'saya', 'rasa', 'mungkin', 'double', 'resi']",Anger,Neutral
+25383,"['kalau', 'permasalahin', 'lulusan', 'sma', 'sepertinya', 'adminnya', 'lupa', 'kalau', 'pernah', 'punya', 'menteri', 'lulusan', 'selama', 'kualitas', 'luar', 'biasa', 'kualitas', 'keilmuan', 'seseorang', 'selalu', 'dilihat', 'status', 'pendidikan']",Neutral,Neutral
+17556,"['selamat', 'hari', 'raya', 'waisak', 'sebarkan', 'kebaikan', 'sucikan', 'hati', 'pikiran']",Joy,Joy
+32130,"['ppatk', 'potensi', 'politik', 'uang', 'lewat', 'e', 'money', 'e', 'wallet', 'pemilu']",Fear,Fear
+43144,"['exo', 'atmospheric', 'hypersonic', 'missiles', 'go', 'up', 'at', 'well', 'over', 'mach', 'up', 'to', 'the', 'limts', 'of', 'space', 'then', 'come', 'back', 'down', 'the', 'most', 'recent', 'attack', 'from', 'iran', 'to', 'israel', 'proved', 'that', 'the', 'us', 'is', 'able', 'to', 'stop', 'missiles', 'before', 'their', 'come', 'back', 'down', 'phase']",Fear,Neutral
+13977,"['tidak', 'komen', 'partai', 'pendukung', 'presiden', 'jokowi', 'tidak', 'punya']",Anger,Anger
+43042,"['i', 'hate', 'iran', 'hope', 'iran', 'destroy', 'soon', 'israel']",Anger,Anger
+23986,"['iya', 'kakk', 'match', 'point', 'itu', 'tadi', 'jadi', 'kedua', 'tim', 'sama', 'sama', 'berharap', 'menang', 'iya', 'mau', 'gimana', 'kairi', 'salah', 'masuk', 'bush', 'auto', 'ilang', 'blunder', 'netijen', 'nyerang', 'tuh', 'kata', 'onic', 'lah', 'semoga', 'tahun', 'depan', 'indo', 'jemput', 'piala', 'm', 'series']",Joy,Joy
+22086,"['suatu', 'acra', 'wajib', 'pak', 'ganjar', 'mengajak', 'pemuda', 'berdiskusi']",Joy,Joy
+4914,"['bukan', 'suka', 'sama', 'seriesnya', 'iya', 'aktingnya', 'bagus', 'soundtracknya', 'bagus', 'ceritnya', 'seram', 'seram', 'sekali']",Fear,Fear
+32793,"['selama', 'tidak', 'gampang', 'kemakan', 'konten', 'mengeneralisasi', 'satu', 'generasi', 'dianggap', 'stroberi', 'tibalah', 'momen', 'menjelang', 'pemilu']",Neutral,Neutral
+14165,"['bong', 'bong', 'ajarin', 'pintar', 'malah', 'sewot', 'karuan']",Anger,Sad
+42465,"['iran', 's', 'supreme', 'leader', 'tacitly', 'acknowledges', 'that', 'tehran', 'hit', 'little', 'in', 'its', 'attack', 'on', 'israel']",Fear,Fear
+42965,"['your', 'description', 'of', 'mann', 's', 'observations', 'in', 'prussia', 'is', 'silly', 'b', 'c', 'it', 'gives', 'the', 'impression', 'that', 'the', 'structures', 'he', 'observed', 'didn', 't', 'already', 'exist', 'all', 'over', 'the', 'world', 'but', 'they', 'existed', 'for', 'yrs', 'in', 'israel', 'iran', 'china', 'japan', 'italy', 'greece', 'britain', 'france', 'etc']",Anger,Neutral
+6357,"['hehehehehehe', 'kasih', 'memang', 'tidak', 'terlalu', 'suka', 'fake', 'dating', 'trope', 'kalau', 'kamu', 'suka', 'harusnya', 'lebih', 'itu', 'rep', 'nya', 'lumayan', 'di', 'akhir', 'chara', 'developmentnya', 'kelihatan', 'tidak', 'suka', 'hani', 'teman', 'nya', 'banyak', 'scenes', 'islamophobic', 'hani', 'people', 'pleaser', 'sekali']",Love,Sad
+4868,"['jangan', 'pernah', 'benci', 'sama', 'orang', 'saja', 'jodoh', 'kam']",Fear,Fear
+36838,"['politik', 'murni', 'kompetisi', 'iya', 'pak', 'sobat', 'setuju', 'nih']",Neutral,Neutral
+33155,"['pupus', 'harapan', 'segelintir', 'berharap', 'pemilu', 'bersih', 'bermartabat']",Sad,Sad
+31425,"['ksad', 'bahas', 'keterlibatan', 'tni', 'pada', 'pemilu', 'komisi', 'i', 'dpr']",Neutral,Neutral
+22278,"['keindahan', 'senyum', 'keramahan', 'gadis', 'bali', 'menyambut', 'pak', 'ganjar', 'sesuatu', 'luar', 'biasa', 'tulus', 'menyambut', 'senyuman', 'hangat', 'menciptakan', 'atmosfer', 'penuh', 'dengan', 'keceriaan', 'kegembiraan']",Joy,Joy
+46060,"['the', 'actual', 'leaders', 'of', 'indonesia', 'who', 'are', 'elected', 'by', 'the', 'most', 'of', 'the', 'indonesian', 'people', 'have', 'their', 'votes', 'riched', 'in', 'the', 'elections', 'those', 'who', 'rigged', 'him', 'expensed', 'more', 'than', 'trillion', 'rupiah']",Anger,Anger
+28509,"['palestina', 'juga', 'masok', 'air', 'listrik', 'gaza', 'sih', 'apa', 'bisa']",Neutral,Fear
+25308,"['cari', 'cari', 'nope', 'menteri', 'ngisrael', 'silahkan', 'dimainkan', 'salam', 'sebelumnya', 'buat', 'yoav', 'kisch', 'menteri', 'pendidikan', 'ngisrael', 'telegram', 'gas', 'sebelumnya', 'curhat', 'belakangan']",Anger,Neutral
+3047,"['sebelumnya', 'jadi', 'ustadz', 'pesantren', 'iya', 'sudah', 'mumpuni', 'bidangnya', 'bukan', 'siapa', 'boleh', 'mirip', 'sekarang', 'banyak', 'sesat']",Anger,Anger
+26863,"['di', 'palestina', 'berjuang', 'ditengah', 'masjid', 'hancur', 'mencoba', 'memanggil', 'orang', 'shalat', 'well', 'engankah', 'datang', 'kemasjid', 'mereka', 'masjidnya', 'hancur', 'diteror', 'tetap', 'datang', 'padanya']",Sad,Sad
+16258,"['tebarkan', 'semangat', 'mu', 'pak', 'indonesia', 'maju', 'dimanapun', 'sudutnya']",Love,Love
+5521,"['haloo', 'minjuu', 'habedee', 'semoga', 'sehat', 'bahagia', 'selalu']",Joy,Joy
+5827,"['semangat', 'ber', 'kerja', 'walaupun', 'gini', 'gini']",Joy,Joy
+38095,"['kritikan', 'pertanyaan', 'terbuka', 'bagian', 'politik', 'sebaiknya', 'calon', 'presiden', 'mampu', 'menanggapinya', 'lebih', 'bijaksana']",Neutral,Neutral
+31253,"['akses', 'putusan', 'dugaan', 'pelanggaran', 'administratif', 'pemilu', 'tahun', 'nomor', 'tm', 'adm', 'pl', 'bwsl', 'prov', 'x', 'melalui', 'link', 'berikut']",Neutral,Neutral
+12810,"['semua', 'asal', 'dikorupsi', 'ajang', 'manipulasi', 'bagus']",Love,Anger
+31807,"['hallo', 'sobat', 'polri', 'rangka', 'menghadapi', 'pemilu', 'bersatu', 'jaga', 'perdamaian', 'walupun', 'beda', 'pilihan', 'poldametrojaya']",Neutral,Neutral
+21899,"['keren', 'nih', 'antusiasme', 'masyarakat', 'bali', 'waktu', 'menyambut', 'pak', 'ganjar', 'ramai', 'sekali', 'rahajeng', 'rawuh', 'bali', 'pak']",Joy,Joy
+8544,"['keinginanku', 'membeli', 'itu', 'seketika', 'terhenti', 'kalimat']",Sad,Sad
+43413,"['guess', 'don', 't', 'like', 'people', 'responding', 'to', 'their', 'tweets', 'just', 'strange', 'how', 'shows', 'so', 'little', 'concern', 'for', 'ukrainians', 'fighting', 'for', 'their', 'liberty', 'against', 'russian', 'invaders', 'or', 'for', 'the', 'human', 'religious', 'amp', 'civil', 'rights', 'of', 'the', 'people', 'of', 'china', 'iran', 'cuba', 'venezuela', 'nicaragua']",Anger,Sad
+31741,"['bersama', 'sejumlah', 'narasumber', 'lemhannas', 'ri', 'hari', 'melakukan', 'diskusi', 'kelompok', 'terpumpun', 'focus', 'group', 'discussion', 'fgd', 'membahas', 'ancaman', 'keamanan', 'perlu', 'diwaspadai', 'penyelenggaraan', 'pemilu']",Neutral,Fear
+36369,"['beda', 'pandangan', 'politik', 'sama', 'pemerintah', 'pak', 'shin', 'kalau', 'golongan', 'bangun', 'mah', 'kemarin', 'kepake']",Anger,Anger
+31834,"['jelang', 'pemilu', 'polsek', 'buay', 'bahuga', 'polda', 'lampung', 'berikan', 'pelatihan', 'linmas', 'suka', 'agung']",Neutral,Neutral
+1278,"['pernah', 'jadi', 'dikasih', 'pertanyaan', 'kamu', 'seorang', 'individualis', 'berkelompok', 'jawab', 'iya', 'ragu', 'ragu', 'saja']",Neutral,Neutral
+29857,"['template', 'piastri', 'akhirnya', 'kepake', 'konteks', 'pemilu']",Neutral,Neutral
+426,"['kasih', 'contoh', 'dengan', 'benar', 'bagaimana', 'menghormati', 'ulama', 'tidak', 'mengkhianati', 'pemberi', 'amanat']",Neutral,Neutral
+11937,"['h', 'mau', 'bank', 'ramai', 'sangat', 'ampe', 'antrian', 'tempat', 'duduknya', 'diluar', 'toko', 'emas', 'meluber', 'ampe', 'kelihatan', 'mbaknya', 'jualan', 'swalayan', 'antrian', 'kasir', 'naudzubilah', 'panjang', 'benar', 'bahagia', 'semua', 'kayaknya', 'semoga', 'semoga', 'rs', 'sepi', 'pasien', 'sembuh', 'pulang', 'berbahagia']",Joy,Fear
+1683,"['haii', 'terima', 'kasih', 'menjelaskan', 'nya', 'bahasa', 'baik', 'lebih', 'suka', 'penjelasan', 'pembahasan', 'kamu', 'mirip', 'gini', 'kebanyakanborang', 'qrt', 'base', 'kemarin', 'minta', 'maaf', 'sering', 'pakai', 'pikir', 'sma', 'mirip', 'wp', 'dan', 'banyak', 'pakai']",Neutral,Joy
+8039,"['beli', 'mobil', 'baru', 'harganya', 'sampai', 'juta', 'doi', 'ganti', 'head', 'unit', 'pakai', 'merek', 'china', 'berasa', 'bawa', 'lamborghini', 'sound', 'double', 'bass', 'power', 'kamu', 'kampungan']",Anger,Joy
+23395,"['tertawa', 'masalah', 'helm', 'bakar', 'ijazah', 'orang', 'tahu', 'apa', 'cara', 'dapetinnya', 'kuliah', 'sebelumnya', 'beberapa', 'tahun', 'bayar', 'kuliah', 'semester', 'nguras', 'duit', 'makan', 'transportasi', 'buat', 'kuliah', 'hangus', 'perkara', 'helm', 'saja', 'memang', 'semahal', 'apasih', 'helmnya', 'sampai', 'tidak', 'dibalikin']",Anger,Joy
+9396,"['seram', 'nih', 'kalau', 'sering', 'mati', 'lampu', 'gini', 'ngeri', 'waktu', 'ditinggal', 'keluarga', 'jogja', 'besok', 'sendirian', 'rumah', 'terus', 'mati', 'lampu', 'jadi', 'apa']",Fear,Fear
+5986,"['nunggu', 'sekali', 'malam', 'mau', 'lihat', 'konfliknya', 'nunggu', 'sekali', 'malam', 'mau', 'lihat', 'siapa', 'penulis', 'barunya', 'biasanya', 'suka', 'muncul', 'tuh', 'opening']",Joy,Neutral
+14706,"['jebakannya', 'buat', 'menjebak', 'kodok', 'bong']",Anger,Neutral
+3363,"['macam', 'sedih', 'strees', 'sbb', 'xde', 'duit', 'tahu', 'tah', 'la']",Sad,Sad
+5557,"['ayo', 'semangat']",Joy,Joy
+22669,"['makanan', 'paling', 'berbahaya', 'asam', 'urat']",Fear,Fear
+42044,"['israel', 'hit', 'iran', 'with', 'a', 'half', 'ton', 'supersonic', 'rampage', 'missile', 'report', 'says']",Fear,Fear
+44508,"['israel', 'if', 'you', 'go', 'to', 'war', 'with', 'iran', 'quater', 'and', 'saudi', 'would', 'have', 'holiday', 'makers', 'go', 'there', 'so', 'you', 'are', 'in', 'a', 'good', 'position', 'to', 'tell', 'these', 'countries', 'to', 'show', 'israel', 'more', 'support', 'instead', 'of', 'sitting', 'on', 'the', 'fence']",Fear,Fear
+38235,"['isu', 'politik', 'menggelar', 'ulul', 'amri', 'gelaran', 'dajjal', 'kata', 'islam', 'politik', 'tak', 'dipisahkan', 'bila', 'jadi', 'cmni', 'xleh', 'pulak', 'masuk', 'cmpur', 'ish', 'ish', 'ish']",Anger,Anger
+27976,"['hanya', 'muak', 'sama', 'hamas', 'bukan', 'palestinanya', 'bedakan', 'iya', 'mendukung', 'hamas', 'bukan', 'berarti', 'mendukung', 'palestina']",Anger,Anger
+19840,"['cak', 'imin', 'menambah', 'kekuatan', 'diplomasi', 'indonesia', 'panggung', 'internasional', 'bersama', 'pak', 'anies']",Neutral,Neutral
+6324,"['kamu', 'tuh', 'kadang', 'suka', 'ngeselin', 'sering', 'sekali', 'bikin', 'kangen']",Love,Love
+23678,"['lulus', 'kuliah']",Joy,Joy
+23087,"['menghadapi', 'pandemi', 'kesehatan', 'sebuah', 'prioritas', 'utama', 'ketua', 'kadin']",Neutral,Neutral
+33523,"['deklarasi', 'damai', 'pemilu', 'pemkot', 'bandung', 'ingatkan', 'konduktivitas']",Neutral,Neutral
+29721,"['pemilu', 'memang', 'pasti', 'lebih', 'asik']",Anger,Anger
+17772,"['berlaku', 'yah', 'promonya']",Neutral,Neutral
+45450,"['kalau', 'tidak', 'tahu', 'tinggal', 'nyontek', 'versi', 'cnn', 'detik', 'tambahan', 'bertentangan', 'kesusilaan', 'norma', 'norma', 'lainnya', 'berlaku', 'tengah', 'masyarakat', 'indonesia', 'lgbtq', 'prostitusi', 'perjudian', 'minuman', 'keras', 'narkoba', 'penyakit', 'masyarakat', 'lainnya']",Fear,Neutral
+4045,"['pikir', 'salah', 'makan', 'apa', 'sendiri', 'kadang', 'suka', 'bandel', 'kalau', 'urusan', 'makan', 'jadi', 'saya', 'pikir', 'maag', 'biasa', 'waktu', 'diperiksa', 'katanya', 'lambungku', 'infeksi', 'mana', 'obatnya', 'banyak', 'sekali', 'hiks', 'makasih', 'banyak', 'iya', 'kamu', 'sehat', 'teruss']",Sad,Sad
+14580,"['jadi', 'omongan', 'dan', 'kawan', 'selama', 'apa', 'kalau', 'memang', 'kotor']",Anger,Anger
