@@ -1,11 +1,11 @@
-number_of_topic,text
-7,Kondisi rumput di Stadion Gelora Bung Karno (GBK) setelah konser. Para penggemar mengeluhkan dampaknya pada permainan timnas Indonesia terutama terkait performa pemain di lapangan.
-2,Anang sering disebut dalam konteks menyanyikan lagu "Indonesia Pusaka" sebelum pertandingan timnas Indonesia. Momen ini menciptakan suasana emosional bagi para suporter dan menjadi bagian penting dari pengalaman menonton pertandingan.
-3,Banyak pembicaraan tentang keberhasilan timnas Indonesia lolos ke putaran ketiga kualifikasi Piala Dunia 2026 dan Piala Asia. Penggemar merasa bangga dan membahas strategi serta persiapan untuk pertandingan selanjutnya.
-4,Pertandingan melawan Filipina menjadi sorotan dengan banyak diskusi tentang performa pemain seperti Verdonk dan Haye. Kemenangan ini dianggap sebagai momen bersejarah dan menjadi topik hangat di media sosial.
-2,Banyak penggemar yang berbagi pengalaman menonton pertandingan timnas Indonesia. Mereka membahas momen-momen penting pembelian tiket dan harapan untuk kemenangan timnas di masa depan. Rasa fomo (fear of missing out) juga sering dibicarakan.
-1,Dukungan dari suporter untuk timnas Indonesia menjadi topik utama. Banyak yang mengungkapkan rasa bangga setelah kemenangan dalam berbagai pertandingan dan berbagi ucapan selamat kepada para pemain.
-8,Diskusi tentang strategi yang digunakan oleh pelatih Shin Tae-yong dan performa pemain seperti Ernando dan Verdonk sering muncul. Penggemar juga membicarakan potensi pemain diaspora untuk memperkuat timnas.7,
-2,Perjalanan timnas Indonesia di babak kualifikasi Piala Dunia dan Piala Asia menjadi topik yang sering dibahas. Banyak yang merasa bangga dengan pencapaian timnas dan membahas pertandingan-pertandingan yang akan datang.
-4,Banyak yang membicarakan momen-momen bersejarah dan gol-gol penting yang dicetak oleh timnas Indonesia. Kemenangan di babak kualifikasi dan turnamen AFF menjadi sorotan utama.
-10,Kondisi lapangan dan performa pemain di berbagai pertandingan sering menjadi topik diskusi. Banyak yang mengeluhkan kondisi lapangan yang kurang baik dan dampaknya pada permainan timnas.
+topic,context
+0,"Dukungan dari suporter untuk timnas Indonesia menjadi topik utama. Banyak yang mengungkapkan rasa bangga setelah kemenangan dalam berbagai pertandingan dan berbagi ucapan selamat kepada para pemain.",
+1,"Perjalanan timnas Indonesia di babak kualifikasi Piala Dunia dan Piala Asia menjadi topik yang sering dibahas. Banyak yang merasa bangga dengan pencapaian timnas dan membahas pertandingan-pertandingan yang akan datang.",
+2,"Banyak pembicaraan tentang keberhasilan timnas Indonesia lolos ke putaran ketiga kualifikasi Piala Dunia 2026 dan Piala Asia. Penggemar merasa bangga dan membahas strategi serta persiapan untuk pertandingan selanjutnya.",
+3,"Anang sering disebut dalam konteks menyanyikan lagu 'Indonesia Pusaka' sebelum pertandingan timnas Indonesia. Momen ini menciptakan suasana emosional bagi para suporter dan menjadi bagian penting dari pengalaman menonton pertandingan.",
+4,"Pertandingan melawan Filipina menjadi sorotan dengan banyak diskusi tentang performa pemain seperti Verdonk dan Haye. Kemenangan ini dianggap sebagai momen bersejarah dan menjadi topik hangat di media sosial.",
+5,"Banyak yang membicarakan momen-momen bersejarah dan gol-gol penting yang dicetak oleh timnas Indonesia. Kemenangan di babak kualifikasi dan turnamen AFF menjadi sorotan utama.",
+6,"Kondisi rumput di Stadion Gelora Bung Karno (GBK) setelah konser. Para penggemar mengeluhkan dampaknya pada permainan timnas Indonesia terutama terkait performa pemain di lapangan.",
+7,"Diskusi tentang strategi yang digunakan oleh pelatih Shin Tae-yong dan performa pemain seperti Ernando dan Verdonk sering muncul. Penggemar juga membicarakan potensi pemain diaspora untuk memperkuat timnas.",
+8,"Kondisi lapangan dan performa pemain di berbagai pertandingan sering menjadi topik diskusi. Banyak yang mengeluhkan kondisi lapangan yang kurang baik dan dampaknya pada permainan timnas.",
+9,"Banyak penggemar yang berbagi pengalaman menonton pertandingan timnas Indonesia. Mereka membahas momen-momen penting pembelian tiket dan harapan untuk kemenangan timnas di masa depan. Rasa fomo (fear of missing out) juga sering dibicarakan."i berbagai pertandingan sering menjadi topik diskusi. Banyak yang mengeluhkan kondisi lapangan yang kurang baik dan dampaknya pada permainan timnas.
